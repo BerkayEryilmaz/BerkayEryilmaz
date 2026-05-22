@@ -30,4 +30,4 @@ Kütahya Dumlupınar Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
 
 ## 📬 Benimle İletişime Geçin
 - **E-posta:** [berkayeryilmaz2006@gmail.com]
-- **LinkedIn:** [LinkedIn Profil Linkiniz]
+- **LinkedIn:** [www.linkedin.com/in/berkay-eryılmaz-b4a007411]
