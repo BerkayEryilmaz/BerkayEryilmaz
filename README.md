@@ -24,10 +24,10 @@ Kütahya Dumlupınar Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
 
 ## 📊 GitHub İstatistiklerim
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radial" alt="Berkay's GitHub Stats" height="150]"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radial" alt="Top Langs" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BerkayEryilmaz&show_icons=true&theme=radial" alt="Berkay's GitHub Stats" height="150]"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayEryilmaz&layout=compact&theme=radial" alt="Top Langs" height="150"/>
 </p>
 
 ## 📬 Benimle İletişime Geçin
-- **E-posta:** [E-posta Adresiniz]
+- **E-posta:** [berkayeryilmaz2006@gmail.com]
 - **LinkedIn:** [LinkedIn Profil Linkiniz]
